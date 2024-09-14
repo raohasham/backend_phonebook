@@ -1,0 +1,19 @@
+{
+  "name": "backend_phnebook",
+  "version": "1.0.0",
+  "description": "backend for phonebook",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "build": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhammad hasham",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
